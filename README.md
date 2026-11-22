@@ -17,6 +17,7 @@ QBank → Anki Bridge adds a small panel to UWorld and AMBOSS. For each question
 
 **Two modes:** Click the mode button in the panel header to switch.
 - **Pre-dedicated** shows right away whether the linked cards are active or suspended, with a green or red bar. Green means every card is active, and red means at least one is suspended. It's useful during classes, when you're picking extra questions on a topic.
+
 <img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee1148b-a9b0-402e-af56-d454f2c3b99e" /><img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/cbd0a091-7ca9-4ff9-bc87-75669274af14" />
 
 - **Dedicated** shows nothing about the cards until you answer the question. Knowing you've already done a card can give away the answer, since you could rule out choices you don't recognize.
