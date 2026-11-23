@@ -18,12 +18,11 @@ QBank → Anki Bridge adds a small panel to UWorld and AMBOSS. For each question
 **Two modes:** Click the mode button in the panel header to switch.
 - **Pre-dedicated** shows right away whether the linked cards are active or suspended, with a green or red bar. Green means every card is active, and red means at least one is suspended. It's useful during classes, when you're picking extra questions on a topic.
 
-<img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee1148b-a9b0-402e-af56-d454f2c3b99e" /><img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/cbd0a091-7ca9-4ff9-bc87-75669274af14" />
+<img width="314" height="200" alt="image" src="https://github.com/user-attachments/assets/3428b66d-075a-47ea-8066-27f2a9938d62" /><img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/bac3338f-095d-4094-8989-0a02732b13f2" />
 
 - **Dedicated** shows nothing about the cards until you answer the question. Knowing you've already done a card can give away the answer, since you could rule out choices you don't recognize.
 
-<img width="314" height="200" alt="image" src="https://github.com/user-attachments/assets/3428b66d-075a-47ea-8066-27f2a9938d62" /><img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/bac3338f-095d-4094-8989-0a02732b13f2" />
-
+<img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/4ee1148b-a9b0-402e-af56-d454f2c3b99e" /><img width="314" height="352" alt="image" src="https://github.com/user-attachments/assets/cbd0a091-7ca9-4ff9-bc87-75669274af14" />
 
 The extension remembers your mode. You can also copy a note's ID to search for it in Anki, shrink the panel to a tiny tab at the bottom of the screen, and drag it to resize.
 
